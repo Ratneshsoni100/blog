@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    color: black;
+}
+a.active{
+    color: white;
+    text-shadow: 1px 1px 3px black;
+    text-decoration: underline;
+}
+img{
+    height: 50px;
+}
